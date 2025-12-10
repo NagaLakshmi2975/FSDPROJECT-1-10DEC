@@ -1,0 +1,11 @@
+git init
+git config —global user.name “NagaLakshmi2975”
+git config —global user.email “nagalakshmigogikar@GMAIL.COM”
+git  add .
+git commit -m “commited”
+git branch -M main
+git remote add origin https://github.com/NagaLakshmi2975/FSDPROJECT-1-10DEC.git
+
+git push -u origin main
+git checkout
+git log
